@@ -1,0 +1,16 @@
+{
+  "n": 385,
+  "digits": 50,
+  "feasible_radius": "0.0725678002281957",
+  "wall_radius": "0.0725678002281957",
+  "pair_radius": "0.072567800228195720472400702047098282124106310962035",
+  "closest_pair": [
+    262,
+    298
+  ],
+  "centers_inside_cube": true,
+  "claimed_radius": "0.0725678002281956999999999",
+  "claimed_feasible": true,
+  "gap_to_table": "0.000025776193614045419994518685999999999999999999999896",
+  "meets_numeric_improvement": true
+}

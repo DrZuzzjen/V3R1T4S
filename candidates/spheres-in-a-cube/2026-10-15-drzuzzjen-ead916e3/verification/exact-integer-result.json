@@ -1,0 +1,21 @@
+{
+  "object_sha256": "ead916e395b86b40de9e796239c9ab8397096e32a4700753a84d10d0ff56747a",
+  "N": 385,
+  "cube": "[-1/2,1/2]^3",
+  "certified_radius_lower_bound": "0.0725678002281956999999999",
+  "arithmetic": "exact integers after common scaling of finite decimal rationals",
+  "tolerance": "none",
+  "pairs_checked": 73920,
+  "individual_wall_constraints_checked": 2310,
+  "failed_pair_constraints": 0,
+  "failed_wall_constraints": 0,
+  "minimum_wall_clearance": "0.0725678002281957",
+  "minimum_half_pair_distance_approx_80_digits": "0.072567800228195720472400702047098282124106310962035055133868209011030184550153465",
+  "feasible_radius_approx_80_digits": "0.0725678002281957",
+  "closest_pair_one_based": [
+    263,
+    299
+  ],
+  "geometry_pass": true,
+  "novelty": "unresolved; geometry verification does not establish priority or acceptance"
+}

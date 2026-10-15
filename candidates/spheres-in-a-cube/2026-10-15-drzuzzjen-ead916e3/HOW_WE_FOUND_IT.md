@@ -1,0 +1,3 @@
+# How we found it (contributor text, unverified)
+
+The public N=384 arrangement was used as a seed for a neighboring-count construction. Local insertion and constraint optimization produced the retained 385-center object. Search was bounded and randomized; no exhaustive-search or performance claim is made. The explicit decimal centers were preserved and independently replayed. A conservative radius bound repaired a rounding issue in an earlier carrier without changing those centers. The original complete novelty/criterion reviews did not pass because the public pending bundle could not be resolved.
