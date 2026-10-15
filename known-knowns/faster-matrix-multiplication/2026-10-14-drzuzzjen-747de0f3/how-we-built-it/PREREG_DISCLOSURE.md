@@ -1,0 +1,3 @@
+# PREREG disclosure (written 2026-10-14T18:46:02Z, PREREG.md itself unchanged)
+
+logs/quick_sweep.txt (sha256 107c35857c8baf9d59063755f617f299324fa90a1edaa11e6606becf4acf0ea8, mtime 2026-10-14T18:19:46Z) was a smoke test of tools/cse.py run 86 s before PREREG.md was frozen (2026-10-14T18:21:12Z). It is treated as calibration only, is excluded from scoring and is not citable: its generating command was not saved and tools/cse.py changed afterwards. It found no value below any reference (every greedy total >= its ref). PREREG's thresholds are the bank's literal criterion (strictly below the live minimum; tie = rediscovery) and were not tuned. Every scored result must come from a lens folder under attempts/ (output) with mtime later than 2026-10-14T18:21:12Z.
